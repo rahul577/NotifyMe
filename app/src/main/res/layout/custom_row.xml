@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rowimage"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="@color/com_facebook_button_login_silver_background_color"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="@color/com_facebook_messenger_blue"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/sendername"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="right"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_light" />
+</LinearLayout>

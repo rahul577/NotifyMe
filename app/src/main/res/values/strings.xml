@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string-array name="branch_array">
+        <item>Computer Science</item>
+        <item>Information Technolgy</item>
+        <item>BioTechnology</item>
+        <item>Mechanical</item>
+        <item>Electrical and Electronics</item>
+        <item>Electronics and Communication</item>
+    </string-array>
+    <string-array name="year_array">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+    <string-array name="section_array">
+        <item>Section 1</item>
+        <item>Section 2</item>
+    </string-array>
+</resources>
