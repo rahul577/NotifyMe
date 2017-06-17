@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/image"
+    android:orientation="vertical"
+    tools:context="com.example.notifythem.SentNotifications">
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="com.example.notifythem.SelectorFragment"
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        tools:layout="@layout/fragment_selector" />
+
+    <ListView
+        android:id="@+id/Database_ListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
