@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         adapter1.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         // Apply the adapter to the spinner
         spinner1.setAdapter(adapter1);
-        Log.i("hello world","this is just another log message");
+        Log.i("hello world","this is just another log message this tag belongs to rahul bafila");
 
         spinner1.setOnItemSelectedListener(this);
 
