@@ -36,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/notifyme/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+              <caret line="54" column="100" selection-start-line="54" selection-start-column="100" selection-end-line="54" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -2422,7 +2422,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/notifyme/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <caret line="54" column="100" selection-start-line="54" selection-start-column="100" selection-end-line="54" selection-end-column="100" />
           <folding />
         </state>
       </provider>
